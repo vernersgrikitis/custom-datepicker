@@ -7,7 +7,7 @@ https://github.com/vernersgrikitis/custom-datepicker/assets/127933614/99fa5505-b
 
 ## Getting Started
 
-- Download products repository via command line git clone https://github.com/vernersgrikitis/custom-datepicker.git
+- Download custom-datepicker repository via command line git clone https://github.com/vernersgrikitis/custom-datepicker.git
 - Open the downloaded folder with your IDE, or just navigate to the downloaded folder via your command line
 - Open terminal on IDE and execute "npm i", or just execute "npm i" on your command line
 - You must have installed node.js on your device
